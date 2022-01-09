@@ -26,9 +26,9 @@ We recruited four volunteers, and each volunteer is asked to speak (1) a list of
       ├── wake_aud.mat
    
 ## Mat file Structure
-Each row is a one-second speech/IMU clip
-col. 1: clean mic data (44.1kHz)
-col. 2: contact mic data (44.1kHz)
-col. 3: IMU data near the ear (~475Hz, microsecond timestamp in first column)
-col. 4: IMU data near the neck(~475Hz, microsecond timestamp in first column)
-col. 5 and 6: unused data at this moment
+Each row is a one-second speech/IMU clip<br />
+col. 1: clean mic data (44.1kHz)<br />
+col. 2: contact mic data (44.1kHz)<br />
+col. 3: IMU data near the ear (~475Hz, microsecond timestamp in first column)<br />
+col. 4: IMU data near the neck(~475Hz, microsecond timestamp in first column)<br />
+col. 5 and 6: unused data at this moment<br />
