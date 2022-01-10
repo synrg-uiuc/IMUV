@@ -1,8 +1,9 @@
 # IMUV Dataset
 
 IMUV project aims to decode speech signal from earphone IMUs, which has the advantage of being insensitive to environmental noise.
-<br />
 
+
+<br />
 
 IMUV dataset composes of speech data recorded using (1) IMU placed near the ear, (2) IMU placed near the neck, (3) contact microphone placed near the neck, and (4) normal microphone.
 
